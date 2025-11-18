@@ -1,5 +1,11 @@
 
 ## End-to-End California Housing Price Prediction App
+---
+[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/) 
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![SteamLib](https://img.shields.io/badge/SteamLib-Library-lightgrey?logo=steam&logoColor=white)](https://github.com/your-repo/SteamLib)
+[![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker&logoColor=white)](https://www.docker.com/)
+
 
 
 
