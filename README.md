@@ -1,5 +1,7 @@
 
-## End-to-End California Housing Price Prediction App
+## CaliforniaHousePredict-Interactive-California-Housing-Price-Prediction-App
+
+
 ---
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/) 
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
